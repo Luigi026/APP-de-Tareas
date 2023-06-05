@@ -1,0 +1,30 @@
+[
+   {
+      "titulo": "Estudiar JS",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Estudiar Testing",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Leer libros",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tocar la guitarra",
+      "estado": "en progreso"
+   },
+   {
+      "titulo": "Viajar",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tener casa propia",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Hacer ejercicio",
+      "estado": "pendiente"
+   }
+]
